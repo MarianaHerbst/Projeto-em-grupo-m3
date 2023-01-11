@@ -44,3 +44,5 @@ Material ui; reactjs/typescript unform; react-axios e uso dos hooks
 - [@MarianaHerbst](https://github.com/MarianaHerbst)
 - [@IngridCassia](https://github.com/IngridCassia)
 - [@MariaFernanda](https://github.com/)
+
+![WhatsApp Image 2023-01-11 at 10 11 46](https://user-images.githubusercontent.com/114073501/211819425-2d0a936b-ba0e-4e38-8060-616dc9037473.jpeg)
